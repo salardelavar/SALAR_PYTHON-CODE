@@ -1,6 +1,6 @@
 ###########################################################################################################
 #                                                 IN THE NAME OF ALLAH                                    #
-#  SOIL-RECTANGULAR FOUNDATION INTERACTION WITH SPRING-SUPPORTED SOIL WITH FINITE DIFFERENCE METHOD (FDM) #
+#        SOIL-FOUNDATION INTERACTION WITH SPRING-SUPPORTED SOIL WITH FINITE DIFFERENCE METHOD (FDM)       #
 #---------------------------------------------------------------------------------------------------------#
 # This Python code models the interaction between a rectangular foundation and soil using a finite        #
 # difference method to solve for the deflections and internal forces. The soil is represented as springs  #
