@@ -5,7 +5,7 @@
 # This Python code models the interaction between a rectangular foundation and soil using a finite        #
 # difference method to solve for the deflections and internal forces. The soil is represented as springs  #
 # distributed across the foundation area.                                                                 #
-#                                                                                                         #
+#---------------------------------------------------------------------------------------------------------#
 #                               THIS PROGRAM IS WRITTEN BY SALAR DELAVAR GHASHGHAEI (QASHQAIA)            #
 #                                          EMAIL: SALAR.D.GHASHGHAEI@GMAIL.COM                            #
 ###########################################################################################################
