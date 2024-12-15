@@ -18,7 +18,7 @@ E = 2.1e11       # Elastic modulus of the foundation material (Pa)
 H = 0.5          # Height (thickness) of the foundation (m)
 B = 5.0          # Width of the foundation (m)
 L = 10.0         # Length of the foundation (m)
-Es = 1e8         # Modulus of subgrade (soil) reaction (Pa/m)
+K = 1e8          # Modulus of subgrade (soil spring stiffness) reaction (Pa/m)
 P = -1e6         # Compression force applied at the center of the foundation (N)
 
 # Derived properties
@@ -54,7 +54,7 @@ for i in range(1, nx - 1):
         A[idx, idx] -= 2 * E * I / dy**4
 
         # Soil spring contribution
-        A[idx, idx] += Es
+        A[idx, idx] += K
 
 # Apply compression force at the center of the foundation
 center_x, center_y = nx // 2, ny // 2
@@ -74,7 +74,7 @@ for j in range(ny):
 y = np.linalg.solve(A, b).reshape((nx, ny))
 
 # Calculate reactions (subgrade reaction)
-reactions = Es * y
+reactions = -K * y
 
 # Plot results
 x = np.linspace(0, L, nx)
