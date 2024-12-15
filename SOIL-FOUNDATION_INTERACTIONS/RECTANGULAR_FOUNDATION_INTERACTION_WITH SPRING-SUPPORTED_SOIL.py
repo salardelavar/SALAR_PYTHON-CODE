@@ -6,7 +6,7 @@
 # difference method to solve for the deflections and internal forces. The soil is represented as springs  #
 # distributed across the foundation area.                                                                 #
 #---------------------------------------------------------------------------------------------------------#
-#                               THIS PROGRAM IS WRITTEN BY SALAR DELAVAR GHASHGHAEI (QASHQAIA)            #
+#                            THIS PROGRAM IS WRITTEN BY SALAR DELAVAR GHASHGHAEI (QASHQAI)                #
 #                                          EMAIL: SALAR.D.GHASHGHAEI@GMAIL.COM                            #
 ###########################################################################################################
 
