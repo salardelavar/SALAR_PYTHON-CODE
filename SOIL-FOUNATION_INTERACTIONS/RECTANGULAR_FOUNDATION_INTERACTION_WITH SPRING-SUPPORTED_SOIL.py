@@ -19,8 +19,7 @@ H = 0.5          # Height (thickness) of the foundation (m)
 B = 5.0          # Width of the foundation (m)
 L = 10.0         # Length of the foundation (m)
 Es = 1e8         # Modulus of subgrade (soil) reaction (Pa/m)
-Qx = 1e4         # Lateral soil force per unit area (N/m^2)
-P = 1e6          # Compression force applied at the center of the foundation (N)
+P = -1e6         # Compression force applied at the center of the foundation (N)
 
 # Derived properties
 I = B * H**3 / 12  # Moment of inertia for the rectangular cross-section (m^4)
