@@ -191,7 +191,7 @@ def MARKOV_CHAIN(FILE_TF, file_path, DATA):
 	
 #---------------------------------------------------------------
 # GENERATE DATA
-DATA = BETA_PDF(10, 20, 2.1, 2.5, 100000) # For example lateral dirft and damge index level
+DATA = BETA_PDF(10, 20, 2.1, 2.5, 100000) # For example lateral dirft or damge index level
 
 # MARKOV CHAIN MODEl (structural damage analysis by evaluating displacement)
 FILE_TF = False         # Indicate whether to read data from a file or use provided data
