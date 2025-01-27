@@ -1,6 +1,6 @@
 ###########################################################################################################
 #                                         IN THE NAME OF ALLAH                                            #
-#                     STRUCTURAL DAMAGE EVALUATION USING A MARKOV CHAIN MODEL                             #
+#                 ASSESSING STRUCTURAL DAMAGE RISKS THROUGH A MARKOV CHAIN MODEL                          #
 #---------------------------------------------------------------------------------------------------------#
 # THIS PYTHON SCRIPT EVALUATES STRUCTURAL DAMAGE PROGRESSION BY MODELING TRANSITIONS BETWEEN DIFFERENT    #
 # DAMAGE STATES USING A MARKOV CHAIN APPROACH. IT ANALYZES DISPLACEMENT DATA CAUSED BY EXTERNAL FORCES    #
