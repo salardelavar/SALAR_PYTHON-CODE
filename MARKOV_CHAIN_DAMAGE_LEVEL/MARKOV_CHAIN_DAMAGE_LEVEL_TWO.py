@@ -52,8 +52,6 @@ Ar = B * H                   # [m^2] Cross-sectional area
 Ie = B * H**3 /12            # [m^4] Moment of Inertia
 DENSITY = 2500               # [kg/m²] Concrete Density
 Ele_Mass = DENSITY * Ar      # [kg/m] Mass per unit length
-
-#A_cable = 0.01               # [m^2] Cross-sectional cable area
 #---------------------------------------------------------------------------------
 # Define the Markov chain states
 DAMAGE_STATES = ["No Damage", "Minor Damage", "Moderate Damage", "Severe Damage", "Collapse"]
@@ -78,14 +76,11 @@ def simulate_structure(load_level):
     node3 = [0, 0.5*LENGTH]
     ops.node(1, *node1)
     ops.node(2, *node2)
-    #ops.node(3, *node3)
 
     # Define elements
     element_id = 1
     ops.geomTransf('Linear', 1)
     ops.element('elasticBeamColumn', element_id, 1, 2, Ar, Ec, Ie, 1,'-mass', Ele_Mass)
-    #element_id = 2
-    #ops.element('corotTruss', element_id, node2, node3, A_cable, 1)  # Cable element
 
     # Define boundary conditions
     ops.fix(1, 1, 1, 1)
