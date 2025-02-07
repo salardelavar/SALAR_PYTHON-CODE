@@ -127,9 +127,6 @@ print(f"Project Total Time for 75th Quantile: {time_75:.2f}")
 print(f"Project Total Time for 90th Quantile: {time_90:.2f}")
 
 #------------------------------------------------------------------------------
-# (Cost simulation code omitted here for brevity; assume similar processing is done)
-
-#------------------------------------------------------------------------------
 # Now, instead of (or in addition to) generating a random transition matrix,
 # we generate one based on the simulated activity times for a given quantile.
 # The idea: for each activity (state), if it has successors, assign a weight for
