@@ -2,9 +2,8 @@
  Optimal Pre-Sale Timing for Maximum Profit in a 2000m² Concrete Building Project Using Monte Carlo Simulation:
  
  Suppose that we are going to build a 2000 square meter, four-story, concrete frame building in 18 months.
- The construction cost changes every month based on inflation and due to the lack of advance payment,
- you are planning to pre-sell. From which month should we start pre-selling the roll that will bring us
- the most profit.
+ The construction cost changes every month based on inflation and due to the lack of advance payment, we are planning to pre-sell. 
+ From which month should we start pre-selling the roll that will bring us the most profit?
 -------------------------------------------------------- 
 1. Objective: Determine optimal pre-sale month (1–18) to maximize profit for a 2,000 m² concrete building, balancing inflation gains vs. early discounts.  
 2. Cost Model: Monthly costs follow a normal distribution peaking at Month 9, with ±15% uncertainty and 2% monthly financing costs.  
