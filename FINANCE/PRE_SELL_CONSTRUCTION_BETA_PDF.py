@@ -49,7 +49,7 @@ def construction_profit_optimization():
         0.30e6,  # Month 6: $0.30M minimum
         0.32e6,  # Month 7: $0.32M minimum
         0.34e6,  # Month 8: $0.34M minimum
-        0.36e6,  # Month 9: $0.36M minimum (peak)
+        0.36e6,  # Month 9: $0.36M minimum
         0.34e6,  # Month 10: $0.34M minimum
         0.32e6,  # Month 11: $0.32M minimum
         0.30e6,  # Month 12: $0.30M minimum
@@ -70,7 +70,7 @@ def construction_profit_optimization():
         1.5e6,   # Month 6: $1.5M maximum
         1.6e6,   # Month 7: $1.6M maximum
         1.7e6,   # Month 8: $1.7M maximum
-        1.8e6,   # Month 9: $1.8M maximum (peak)
+        1.8e6,   # Month 9: $1.8M maximum
         1.7e6,   # Month 10: $1.7M maximum
         1.6e6,   # Month 11: $1.6M maximum
         1.5e6,   # Month 12: $1.5M maximum
