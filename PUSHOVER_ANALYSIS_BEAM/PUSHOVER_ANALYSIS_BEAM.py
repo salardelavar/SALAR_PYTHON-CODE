@@ -6,7 +6,7 @@
 % Checking the analysis by Force Control                             %
 % Newton-Raphson Method : Initial stiffness procedure                %
 %--------------------------------------------------------------------%
-%          This program is written by salar delavar Qashqai          %  
+%    This program is written by Salar Delavar Ghashghaei (Qashqai)   %  
 %               E-mail:salar.d.ghashghaei@gmail.com                  %
 %--------------------------------------------------------------------%
 %                        Force  Force                                %
