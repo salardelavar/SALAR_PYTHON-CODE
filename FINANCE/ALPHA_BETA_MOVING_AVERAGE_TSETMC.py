@@ -1,7 +1,6 @@
 """
 ALPHA AND BETA MOVING AVERAGE
 This program is written by Salar Delavar Ghashaghaei (Qashqai)
-استفاده از تئوری توزیع احتمالاتی زنجیر مارکو برای تخمین قیمت سهام
 نویسنده: سالار دلاورقشقایی
 """
 ### ALPHA AND BETA MOVING AVERAGE 
