@@ -1,5 +1,5 @@
 """
-ALPHA AND BETA MOVING AVERAGE
+FINANCIAL ALPHA AND BETA MOVING AVERAGE
 This program is written by Salar Delavar Ghashaghaei (Qashqai)
 نویسنده: سالار دلاورقشقایی
 """
