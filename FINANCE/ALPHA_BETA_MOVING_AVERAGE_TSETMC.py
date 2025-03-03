@@ -1,3 +1,9 @@
+"""
+ALPHA AND BETA MOVING AVERAGE
+This program is written by Salar Delavar Ghashaghaei (Qashqai)
+استفاده از تئوری توزیع احتمالاتی زنجیر مارکو برای تخمین قیمت سهام
+نویسنده: سالار دلاورقشقایی
+"""
 ### ALPHA AND BETA MOVING AVERAGE 
 def TSETMC_HISTORY_PRICE(NAME, START_DATE, END_DATE, SAVE_DATA_PRICE, SAVE_DATA_PRICE_SHEET):
     # : دریافت سابقه قیمت
