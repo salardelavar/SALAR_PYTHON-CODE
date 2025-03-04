@@ -60,10 +60,10 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 
-# Define the y data as the S&P 500 price change
+# Define the y data as the STOCK price change
 y_data = STOCK["Adj Close"].pct_change()
 
-# Define the x data as the other symbols price change
+# Define the x data as the INDEX change
 x_data = INDEX["Adj Close"].pct_change()
 
 merged_df = pd.merge(x_data, y_data, on='J-Date')
