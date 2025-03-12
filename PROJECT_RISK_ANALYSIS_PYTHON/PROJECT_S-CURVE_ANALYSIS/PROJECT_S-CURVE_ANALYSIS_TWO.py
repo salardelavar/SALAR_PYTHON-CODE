@@ -9,7 +9,7 @@
             *****************************************************************
             
 
-This sophisticated Python solution implements PMI-aligned critical path analysis with Monte Carlo-inspired scenario modeling
+This Python solution implements PMI-aligned critical path analysis with scenario modeling
  to generate professional S-curve forecasts. 
 -------------- 
 Key features:
