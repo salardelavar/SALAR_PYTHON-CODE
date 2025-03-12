@@ -10,15 +10,20 @@
             
 
 This sophisticated Python solution implements PMI-aligned critical path analysis with Monte Carlo-inspired scenario modeling
- to generate professional S-curve forecasts. Key features:
+ to generate professional S-curve forecasts. 
+-------------- 
+Key features:
+--------------
+1. Dependency-Aware Scheduling: Implements Kahn's topological sort to resolve activity dependencies,
+ensuring valid schedule sequences while detecting cyclic conflicts
 
-1. Dependency-Aware Scheduling: Implements Kahn's topological sort to resolve activity dependencies, ensuring valid schedule sequences while detecting cyclic conflicts
+2. Scenario Modeling: Processes pessimistic/likely/optimistic estimates using triangular distributions
+for both duration and cost parameters.
 
-2. Scenario Modeling: Processes pessimistic/likely/optimistic estimates using triangular distributions for both duration and cost parameters
+3. Time-Phased Cost Allocation: Distributes activity costs linearly across durations, creating accurate
+daily expenditure profiles.
 
-3. Time-Phased Cost Allocation: Distributes activity costs linearly across durations, creating accurate daily expenditure profiles
-
-4. Critical Path Methodology: Calculates ES/EF times through forward pass analysis, identifying scenario-dependent critical paths
+4. Critical Path Methodology: Calculates ES/EF times through forward pass analysis, identifying scenario-dependent critical paths.
 
 5. Advanced Visualization: Produces publication-ready S-curves with embedded summary statistics, using matplotlib's table functionality for at-a-glance scenario comparisons
 
