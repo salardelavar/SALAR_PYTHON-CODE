@@ -7,7 +7,7 @@
             *        USING MONTE-CARLO METHOD WITH BETA PROBABILTY FUNCTION             *
             *            FINDING OPTIMUM REVENUE WITH USING GRAPH THEORY                *
             *---------------------------------------------------------------------------*
-            *        This program is written by Salar Delavar Ghashghaei (Qashqai)      *          *
+            *        This program is written by Salar Delavar Ghashghaei (Qashqai)      *
             *                     E-mail:salar.d.ghashghaei@gmail.com                   *
             *****************************************************************************
 """
