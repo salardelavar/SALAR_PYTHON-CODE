@@ -1,4 +1,4 @@
-#### Simulation and Visualization of Net Rent Changes Over 30 Years with Inflation and Depreciation
+#### Simulation of Net Rent Changes Over 30 Years with Inflation and Depreciation
 import matplotlib.pyplot as plt
 
 # Input parameters
