@@ -31,7 +31,8 @@ daily expenditure profiles.
 
 7. Executive Reporting: Outputs include both granular schedule metrics (ES/EF per activity) and C-suite focused cumulative cost projections
 
-The solution adheres to AACE International recommended practices for cost engineering, providing actionable insights for capital project planning and risk mitigation. Final visualization delivers immediate visual comparison of scenario outcomes with professional styling suitable for board presentations.            
+The solution adheres to AACE International recommended practices for cost engineering, providing actionable insights for capital
+project planning and risk mitigation. Final visualization delivers immediate visual comparison of scenario outcomes with professional styling suitable for board presentations.            
 """
 import numpy as np
 import pandas as pd
