@@ -22,6 +22,9 @@ Life‐Cycle Costing (LCC) in construction is a methodology for assessing the to
 - Demolition or deconstruction
 - Waste treatment or recycling
 - Site restoration or remediation
+
+This Program is Wriiten By Salar Delavar Ghashghaei
+Email: salar.d.ghashghaei@gmail.com
 """
 
 import numpy as np
