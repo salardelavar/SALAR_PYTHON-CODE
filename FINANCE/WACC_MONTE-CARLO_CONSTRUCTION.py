@@ -2,7 +2,8 @@
  Performs a Monte Carlo simulation to estimate the total construction cost of a 6-story reinforced concrete (RC)
  building using uncertain material, labor, and overhead costs. It also calculates the Weighted Average Cost of
  Capital (WACC) based on uncertain financial parameters like interest rates, tax rates, and equity returns.
- The simulation assumes a 50/50 debt-to-equity capital structure. Two histograms are generated: one showing
+ The simulation assumes a 50/50 debt-to-equity capital structure. 
+ Two histograms are generated: one showing
  the distribution of total project costs, and another showing the WACC distribution.
  Key statistics like mean, median, and standard deviation are included for both outputs.
  ------------------------------------------------------------------------------------------------
