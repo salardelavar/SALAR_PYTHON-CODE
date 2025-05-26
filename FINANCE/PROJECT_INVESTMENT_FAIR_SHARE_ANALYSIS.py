@@ -1,4 +1,6 @@
 """
+Fair Share Calculation in Joint Ventures: Accounting for TVM and Inflation in Construction Projects:
+
 In a $1 million construction project completed over 34 months,
  five partners joined at different times and invested varying
  amounts. The goal of this model is to calculate the fair share
