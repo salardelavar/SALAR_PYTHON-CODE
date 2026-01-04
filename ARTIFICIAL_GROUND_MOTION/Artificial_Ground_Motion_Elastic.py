@@ -34,7 +34,7 @@ Applications: Useful for generating site-specific ground motions, performing par
 # PAPER: A direct derivation method for acceleration and displacement floor response spectra 
 'https://www.sciencedirect.com/science/article/pii/S0141029625008715?via%3Dihub'
 # PAPER: New Formulation for Dynamic Analysis of Nonlinear Time-History of Vibrations of Structures under Earthquake Loading
-'https://ceej.tabrizu.ac.ir/jufile?ar_sfile=388013&lang=en&utm_source=copilot.com'
+'https://ceej.tabrizu.ac.ir/jufile?ar_sfile=388013&lang=en'
 # PAPER: Shock-Response Spectrum
 'https://link.springer.com/chapter/10.1007/978-3-662-08587-5_10'
 #%% ------------------------------------------------------------
@@ -151,4 +151,5 @@ def ARTIFICIAL_GROUND_MOTION(Tn, wn, zeta, Td, dt, Sa_target):
     
     write_at2("artificial_resonance.at2", ag, dt)
 #%% ------------------------------------------------------------
+
 ARTIFICIAL_GROUND_MOTION(Tn, wn, zeta, Td, dt, Sa_target)
