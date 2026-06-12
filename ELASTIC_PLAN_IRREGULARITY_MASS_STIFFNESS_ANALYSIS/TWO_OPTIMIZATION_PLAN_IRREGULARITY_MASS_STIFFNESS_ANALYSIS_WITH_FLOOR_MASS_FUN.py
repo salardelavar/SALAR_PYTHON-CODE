@@ -18,7 +18,7 @@
 """
 def PLAN_IRREGULARITY_MASS_STIFFNESS_ANALYSIS_WITH_FLOOR_MASS_FUN(Tx, Ty, storey_height=3000.0):
     """
-    Plan irregularity analysis for a one‑storey structure with mass and stiffness
+    Plan irregularity analysis for a one‑story structure with mass and stiffness
     irregularities, using a stiffness‑transformation analogy.
 
     The method treats each vertical element (column or shear wall) as a "fibre"
