@@ -1,6 +1,6 @@
 ###########################################################################################################
 #                   >> IN THE NAME OF ALLAH, THE MOST GRACIOUS, THE MOST MERCIFUL <<                      #
-#                      PARAMETER IDENTIFICATION OF A DAMPED FREE-VIBRATION SYSTEM                         #
+#               PARAMETER IDENTIFICATION OF A DAMPED FREE-VIBRATION SYSTEM VIA EXPERIMENTAL DATA          #
 #---------------------------------------------------------------------------------------------------------#
 #                    THIS PYTHON SCRIPT IS WRITTEN BY SALAR DELAVAR GHASHGHAEI (QASHQAI)                  #
 #                                   EMAIL: salar.d.ghashghaei@gmail.com                                   #
