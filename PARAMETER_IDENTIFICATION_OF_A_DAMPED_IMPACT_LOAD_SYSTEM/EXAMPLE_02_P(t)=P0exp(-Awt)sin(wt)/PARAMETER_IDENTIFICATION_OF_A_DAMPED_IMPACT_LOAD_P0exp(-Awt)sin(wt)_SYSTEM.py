@@ -1,6 +1,6 @@
 ###########################################################################################################
 #                   >> IN THE NAME OF ALLAH, THE MOST GRACIOUS, THE MOST MERCIFUL <<                      #
-#  PARAMETER IDENTIFICATION OF A DAMPED SDOF SYSTEM WITH EXPONENTIALLY DECAYING HARMONIC EXCITATION       #                #
+#  PARAMETER IDENTIFICATION OF A DAMPED SDOF SYSTEM WITH EXPONENTIALLY DECAYING HARMONIC EXCITATION       #
 #                                    P(t) = P0 * exp(-A*ω*t) * sin(ω*t)                                   #
 #---------------------------------------------------------------------------------------------------------#
 #                    THIS PYTHON SCRIPT IS WRITTEN BY SALAR DELAVAR GHASHGHAEI (QASHQAI)                  #
