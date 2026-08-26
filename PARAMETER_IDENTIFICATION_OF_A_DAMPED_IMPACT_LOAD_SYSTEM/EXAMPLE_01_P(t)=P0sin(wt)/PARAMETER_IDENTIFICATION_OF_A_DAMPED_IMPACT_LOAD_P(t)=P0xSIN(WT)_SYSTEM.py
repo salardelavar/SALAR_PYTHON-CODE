@@ -1,6 +1,6 @@
 ###########################################################################################################
 #                   >> IN THE NAME OF ALLAH, THE MOST GRACIOUS, THE MOST MERCIFUL <<                      #
-#                  PARAMETER IDENTIFICATION OF A DAMPED SDOF SYSTEM WITH HARMONIC LOAD                    #
+#         PARAMETER IDENTIFICATION OF A DAMPED SDOF SYSTEM WITH HARMONIC LOAD VIA EXPERIMENTAL DATA       #
 #                                         P(t) = P0 * sin(ω*t)                                            #
 #---------------------------------------------------------------------------------------------------------#
 #                    THIS PYTHON SCRIPT IS WRITTEN BY SALAR DELAVAR GHASHGHAEI (QASHQAI)                  #
