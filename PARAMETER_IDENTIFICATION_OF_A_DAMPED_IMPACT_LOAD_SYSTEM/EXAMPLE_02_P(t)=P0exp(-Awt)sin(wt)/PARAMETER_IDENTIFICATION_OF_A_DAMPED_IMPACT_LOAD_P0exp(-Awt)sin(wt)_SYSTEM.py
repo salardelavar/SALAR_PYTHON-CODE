@@ -19,6 +19,10 @@ Unknowns: ξ, k, m, x0, v0, P0, ω, A   (8 unknowns)
 We use 8 experimental data points and Newton–Raphson (scipy.optimize.root) to set up
 8 nonlinear equations. 
 """
+# BOOK: Dynamics of Structures in SI Units -  Anil Kumar Chopra
+'https://share.google/TDN5O4eWmw5pH8zUH'
+# BOOK: Differential Equations for Engineers-Wei-Chau Xie-CAMBRIDGE-2010
+
 import numpy as np
 from scipy.optimize import root
 import matplotlib.pyplot as plt
