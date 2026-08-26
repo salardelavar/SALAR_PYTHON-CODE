@@ -13,6 +13,7 @@
 4. Employs the Newton–Raphson method (via `scipy.optimize.root` with the hybrid Powell algorithm) to iteratively solve this system, starting from a physically plausible initial guess.  
 5. Prints the recovered parameters, calculates the Root Mean Square Error (RMSE) to quantify the fit, and displays all results in the console.  
 6. Plots the smooth fitted response over a fine time grid, overlaying the synthetic experimental points and the fitted values at the measurement times for visual comparison.
+
 Parameter Identification for m*u'' + c*u' + k*u = P0 * exp(-A*ω*t) * sin(ω*t)
 Unknowns: ξ, k, m, x0, v0, P0, ω, A   (8 unknowns)
 We use 8 experimental data points and Newton–Raphson (scipy.optimize.root) to set up
