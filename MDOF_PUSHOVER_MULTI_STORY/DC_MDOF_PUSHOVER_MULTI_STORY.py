@@ -1,7 +1,7 @@
 ###########################################################################################################
 #                   >> IN THE NAME OF ALLAH, THE MOST GRACIOUS, THE MOST MERCIFUL <<                      #
-#       DISPLACEMENT-CONTROLLED NONLINEAR STATIC PUSHOVER ANALYSIS OF A MULTI-STORY BUILDING WITH         #
-#                                             COLUMNS AND SHEAR WALL                                      #
+#    DISPLACEMENT-CONTROLLED NONLINEAR STATIC PUSHOVER ANALYSIS OF A MULTI-STORY BUILDING WITH COLUMNS    #
+#                     AND SHEAR WALLS, USING A PARALLEL AND SERIES SPRING CONCEPT                         #
 #---------------------------------------------------------------------------------------------------------#
 #                 THIS PYTHON SCRIPT IS WRITTEN BY SALAR DELAVAR GHASHGHAEI (QASHQAI)                     #
 #                                   EMAIL: salar.d.ghashghaei@gmail.com                                   #
