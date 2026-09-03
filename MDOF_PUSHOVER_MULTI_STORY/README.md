@@ -1,0 +1,6 @@
+# DISPLACEMENT-CONTROLLED NONLINEAR STATIC PUSHOVER ANALYSIS OF A MULTI-STORY BUILDING WITH COLUMNS AND SHEAR WALL
+![alt text]()
+
+This python script performs a nonlinear static pushover analysis of a 10-story building modeled with multiple column types and a shear wall in parallel at each story. It defines element backbone force-displacement relationships (including post-yield stiffness, strength degradation, and residual capacity) and implements a displacement-controlled solution scheme. Using a triangular lateral load pattern, the analysis incrementally increases the roof displacement, solving for the free story displacements via a Newton–Raphson iteration with line search until force equilibrium is satisfied to a tight tolerance. The code calculates story shears, element forces, and tangent stiffness matrices, then exports global and element-level results to an Excel file. Finally, it generates four plots: the pushover curve (base shear vs. roof displacement), element force-displacement curves for the first story, story shear vs. inter-story drift for all stories, and maximum story shear per story. This analysis allows engineers to evaluate the inelastic behavior, strength, and deformation capacity of the structural system under lateral loading.
+
+THIS PYTHON SCRIPT IS WRITTEN BY SALAR DELAVAR GHASHGHAEI (QASHQAI)
