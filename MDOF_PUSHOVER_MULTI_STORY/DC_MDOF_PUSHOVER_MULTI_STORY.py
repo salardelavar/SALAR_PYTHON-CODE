@@ -361,9 +361,9 @@ for story_num in range(1, n_stories + 1):
     plt.plot(df_global['roof_disp'], data['story_shear'], #data['drift']
              label=f'Story {story_num}', linewidth=2.5)
 
-plt.xlabel('Inter-story Drift')
+plt.xlabel('Roof Displacement')
 plt.ylabel('Story Shear Force')
-plt.title('Story Shear vs. Inter-story Drift for All Stories')
+plt.title('Story Shear vs. Roof Displacement for All Stories')
 plt.legend(bbox_to_anchor=(1.05, 1), loc='upper left')
 plt.grid(True)
 plt.tight_layout()
