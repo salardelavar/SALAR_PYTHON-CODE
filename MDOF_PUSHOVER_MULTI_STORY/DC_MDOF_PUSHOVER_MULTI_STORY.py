@@ -18,8 +18,9 @@ This python script performs a nonlinear static pushover analysis of a n-story
  results to an Excel file. 
  Finally, it generates four plots: the pushover curve (base shear vs. roof displacement),
  element force-displacement curves for the first story, story shear vs. inter-story drift
- for all stories, and maximum story shear per story. This analysis allows engineers to
- evaluate the inelastic behavior, strength, and deformation capacity of the structural
+ for all stories, and maximum story shear per story.
+ 
+ This analysis allows engineers to evaluate the inelastic behavior, strength, and deformation capacity of the structural
  system under lateral loading.
 """
 import numpy as np
