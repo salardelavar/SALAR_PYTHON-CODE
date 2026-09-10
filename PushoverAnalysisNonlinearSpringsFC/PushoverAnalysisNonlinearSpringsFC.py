@@ -1,3 +1,13 @@
+"""
+%***********************************************************%
+%                  >> IN THE NAME OF GOD <<                 %
+% Pushover Analysis of Nonlinear Springs with Force Control %
+%-----------------------------------------------------------%
+%     This program is written by salar delavar ghashghaei   %  
+%            E-mail:salar.d.ghashghaei@gmail.com            %
+%             Publication Date : 25 - May - 2017            %
+%***********************************************************%
+"""
 import numpy as np
 import matplotlib.pyplot as plt
 
