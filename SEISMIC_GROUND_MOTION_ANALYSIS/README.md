@@ -1,5 +1,7 @@
 # SEISMIC GROUND MOTION ANALYSIS
-![alt text]() 
+
+![alt text](https://github.com/salardelavar/SALAR_PYTHON-CODE/blob/main/SEISMIC_GROUND_MOTION_ANALYSIS/SEISMIC_GROUND_MOTION_ANALYSIS.png) 
+
 The code reads 200 seismic acceleration text files named `Ground_Acceleration_1.txt` through 
 `Ground_Acceleration_200.txt`, loads each file with `np.loadtxt` (falling back to comma-delimited 
 parsing if needed), selects the acceleration column if the data has multiple columns, computes the
