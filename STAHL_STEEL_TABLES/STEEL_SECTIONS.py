@@ -28,7 +28,7 @@ The script `steel_sections.py` has three parts. The first is a large block of da
  self-test.
  
  
-German/DIN steel section tables (STAHL_STEEL_TABLES.xls) as pure Python.
+German/DIN steel section tables:
 
 No Excel, xlrd or IPython needed; pandas is only needed for ``Family.to_dataframe()``.
 
